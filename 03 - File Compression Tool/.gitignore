@@ -1,0 +1,9 @@
+bin/
+build/
+*.exe
+*.o
+*.obj
+*.tmp*
+*.huff
+test_out/
+data/

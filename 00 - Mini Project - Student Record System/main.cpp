@@ -30,7 +30,7 @@ int main() {
     StudentBST bst;
 
     // প্রাথমিক স্যাম্পল রেকর্ড দিয়ে ইনিশিয়ালাইজেশন
-    bst.insert(Student("Mahamudol Hasan", 1050, "CSE207 Data Structures", 92.5, 3.90));
+    bst.insert(Student("Sajib Ahmed", 1050, "CSE207 Data Structures", 92.5, 3.90));
     bst.insert(Student("Afsana Mim", 1020, "CSE207 Data Structures", 88.0, 3.80));
     bst.insert(Student("Tanvir Ahmed", 1080, "CSE207 Data Structures", 85.5, 3.75));
     bst.insert(Student("Sadia Islam", 1010, "CSE207 Data Structures", 95.0, 4.00));

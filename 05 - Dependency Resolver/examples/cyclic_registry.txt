@@ -1,0 +1,14 @@
+# REGISTRY_MANIFEST_V1
+# Circular Dependency Test Fixture
+PACKAGE service-auth | Authentication Microservice
+VERSION 1.0.0
+DEP service-user | ^1.0.0 | runtime
+
+PACKAGE service-user | User Management Service
+VERSION 1.0.0
+DEP service-billing | ^1.0.0 | runtime
+
+PACKAGE service-billing | Billing and Payments Service
+VERSION 1.0.0
+DEP service-auth | ^1.0.0 | runtime
+

@@ -1,0 +1,7 @@
+# Local build and binary artifacts
+bin/
+build/
+*.exe
+*.o
+*.obj
+

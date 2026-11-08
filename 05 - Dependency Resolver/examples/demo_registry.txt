@@ -1,0 +1,21 @@
+# REGISTRY_MANIFEST_V1
+# Comprehensive Package Registry Demo Scenario
+PACKAGE react | Declarative UI Framework
+VERSION 18.2.0
+VERSION 17.0.2
+
+PACKAGE nextjs | Fullstack React Framework
+VERSION 14.0.0
+DEP react | ^18.0.0 | runtime
+
+PACKAGE express | Fast node web server
+VERSION 4.18.2
+DEP cookie-parser | ^1.4.0 | runtime
+
+PACKAGE cookie-parser | Cookie parsing middleware
+VERSION 1.4.6
+
+PACKAGE database-driver | High performance database client
+VERSION 2.1.0
+VERSION 1.0.0
+

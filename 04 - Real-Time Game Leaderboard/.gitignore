@@ -1,0 +1,12 @@
+# Local build and binary artifacts
+bin/
+build/
+*.exe
+*.o
+*.obj
+*.class
+__pycache__/
+*.pyc
+*.log
+*.wal
+*.snap

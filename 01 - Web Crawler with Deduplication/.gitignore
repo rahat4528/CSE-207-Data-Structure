@@ -1,0 +1,11 @@
+bin/
+build/
+*.exe
+*.o
+*.obj
+*.a
+*.wal
+*.state
+*.tmp*
+data/
+*.class

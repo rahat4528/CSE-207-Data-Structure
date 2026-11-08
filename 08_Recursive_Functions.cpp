@@ -1,6 +1,5 @@
 // =============================================================================
 // East West University | CSE 207: Data Structures
-// Instructor: Dr. Anup Kumar Paul
 // Experiment 8: Recursive Functions
 // a. Calculate the factorial of an integer number
 // b. Calculate the Fibonacci number, given the index value
@@ -78,7 +77,7 @@ int main() {
 
     cout << "\n--- e. Palindrome Check ---\n";
     string w1 = "madam";
-    string w2 = "rahat";
+    string w2 = "hello";
     cout << "'" << w1 << "' is palindrome? " << (isPalindrome(w1) ? "Yes" : "No") << endl;
     cout << "'" << w2 << "' is palindrome? " << (isPalindrome(w2) ? "Yes" : "No") << endl;
 

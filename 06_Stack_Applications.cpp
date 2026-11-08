@@ -1,6 +1,5 @@
 // =============================================================================
 // East West University | CSE 207: Data Structures
-// Instructor: Dr. Anup Kumar Paul
 // Experiment 6: Stack Applications
 // a. Convert the infix expression to its equivalent postfix expression
 // b. Evaluate the postfix expression

@@ -1,6 +1,5 @@
 // =============================================================================
 // East West University | CSE 207: Data Structures
-// Instructor: Dr. Anup Kumar Paul
 // Experiment 3: Matrix Operations
 // a. Matrix Addition
 // b. Matrix Subtraction

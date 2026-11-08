@@ -39,7 +39,7 @@ struct Config {
     uint32_t maxDepth{3};
     uint32_t maxPages{100};
     uint32_t concurrency{4};
-    std::string userAgent{"SearchBot/1.0 (+https://github.com/crawler/CSE-207-Data-Structure)"};
+    std::string userAgent{"SearchBot/1.0 (+https://github.com/rahat4528/CSE-207-Data-Structure)"};
 
     uint32_t perHostDelayMs{1000};
     uint32_t connectTimeoutMs{3000};

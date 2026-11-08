@@ -1,6 +1,5 @@
 // =============================================================================
 // East West University | CSE 207: Data Structures
-// Instructor: Dr. Anup Kumar Paul
 // Experiment 10: Graph Operations
 // a. Breadth First Traversal (BFT) techniques to print all the nodes
 // b. Depth First Traversal (DFT) techniques to print all the nodes

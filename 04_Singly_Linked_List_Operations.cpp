@@ -1,6 +1,5 @@
 // =============================================================================
 // East West University | CSE 207: Data Structures
-// Instructor: Dr. Anup Kumar Paul
 // Experiment 4: Singly Linked List Operations
 // a. Insert a node at the start
 // b. Insert a node at the end

@@ -131,7 +131,7 @@ Result<FetchResponse> HttpFetcher::fetchSingle(const std::string& targetUrl,
     std::ostringstream reqStream;
     reqStream << "GET " << pathAndQuery << " HTTP/1.1\r\n"
               << "Host: " << url.host() << "\r\n"
-              << "User-Agent: SearchBot/1.0 (+https://github.com/crawler/CSE-207-Data-Structure)\r\n"
+              << "User-Agent: SearchBot/1.0 (+https://github.com/rahat4528/CSE-207-Data-Structure)\r\n"
               << "Connection: close\r\n"
               << "Accept: text/html,application/xhtml+xml\r\n\r\n";
 

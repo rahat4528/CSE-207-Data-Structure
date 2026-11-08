@@ -1,6 +1,5 @@
 // =============================================================================
 // East West University | CSE 207: Data Structures
-// Instructor: Dr. Anup Kumar Paul
 // Experiment 7: Queue Operations
 // Implement operations on Linear Queue and Circular Queue:
 // a. enqueue – insert an element onto the queue

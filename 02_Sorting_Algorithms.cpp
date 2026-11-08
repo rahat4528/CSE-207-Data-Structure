@@ -1,6 +1,5 @@
 // =============================================================================
 // East West University | CSE 207: Data Structures
-// Instructor: Dr. Anup Kumar Paul
 // Experiment 2: Sorting Algorithms
 // a. Bubble Sort
 // b. Selection Sort

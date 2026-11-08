@@ -3,13 +3,12 @@
 **Institution:** East West University  
 **Department:** Computer Science and Engineering  
 **Course:** CSE 207 (Data Structures)  
-**Instructor:** Dr. Anup Kumar Paul, Associate Professor  
 
 ---
 
 ## 📌 Repository "About" (for GitHub)
 
-> **This repository strictly follows the East West University CSE 207 Data Structures curriculum by Dr. Anup Kumar Paul. It includes the Student Record Management System Mini Project using BST, comprehensive advanced projects (Project 01 through Project 05), and all 10 core Lab Experiments in strict sequential order.**
+> **This repository strictly follows the East West University CSE 207 Data Structures curriculum. It includes the Student Record Management System Mini Project using BST, comprehensive advanced projects (Project 01 through Project 05), and all 10 core Lab Experiments in strict sequential order.**
 
 ---
 
@@ -25,8 +24,7 @@ CSE-207-Data-Structure/
 │   ├── main.cpp                           # Interactive Console UI & Random Unique Roll Generator
 │   ├── build.bat                          # One-click native build script
 │   ├── CMakeLists.txt                     # Standard CMake build definition
-│   ├── README.md                          # Comprehensive documentation
-│   └── cover.pdf                          # Official Project Report Cover Page
+│   └── README.md                          # Comprehensive documentation
 │
 ├── 01 - Web Crawler with Deduplication/   # Project 01: Web Crawler with Deduplication (Search Engine Foundation)
 │   ├── include/ & src/                    # Bloom Filter, Two-Stage Deduplication, BFS Scheduler, Link Graph

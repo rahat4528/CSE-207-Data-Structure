@@ -1,6 +1,5 @@
 // =============================================================================
 // East West University | CSE 207: Data Structures
-// Instructor: Dr. Anup Kumar Paul
 // Experiment 9: Binary Search Tree (BST) Operations
 // a. Insert an element into the BST
 // b. Delete an element from the BST (Handling Leaf, 1 Child, 2 Children)

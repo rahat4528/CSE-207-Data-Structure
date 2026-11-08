@@ -1,6 +1,5 @@
 // =============================================================================
 // East West University | CSE 207: Data Structures
-// Instructor: Dr. Anup Kumar Paul
 // Experiment 5: Stack Operations
 // a. push – insert an item onto the stack
 // b. pop – delete the last item from the stack
